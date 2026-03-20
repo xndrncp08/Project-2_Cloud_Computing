@@ -1,5 +1,5 @@
 const USE_MOCK_DATA = false; 
-const FUNCTION_URL = "https://diet-analysis-func-xy.azurewebsites.net/api/analysediet?code=klko7ONHz2sKYZmUSGtw91WCVld-SQAuydcVoGgP0J1QAzFuPjVVow==";
+const FUNCTION_URL = API_KEY_HERE;
 
 const mockData = {
   status: "success",
